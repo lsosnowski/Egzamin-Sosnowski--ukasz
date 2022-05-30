@@ -1,2 +1,2 @@
-#Formularz do egzaminu na podstawie bibioteki BOOTSRRAP
-    
+#Formularz do egzaminu na podstawie bibioteki BOOTSTRAP
+
