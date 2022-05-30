@@ -1,10 +1,27 @@
 
+$border: 2px solid rgb(179, 31, 114);
+$margin: 20px 20px;
 
-$border: 1px solid rgb(25, 232, 22);
 
 
+.container{
 
-.form-control{
-    border: $border !important;
+    margin: $margin !important;
+    background-color: darkturquoise !important;
+
+    .form-control{
+        border: $border !important;
+    }
+
+    .form-text{
+        font-style: italic !important;
+    }
+
+    .form-check-label{
+        font-style: italic !important;
+    }
+
 }
+
+
 

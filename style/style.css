@@ -1,3 +1,13 @@
-.form-control {
-  border: 1px solid rgb(25, 232, 22) !important;
+.container {
+  margin: 20px 20px !important;
+  background-color: darkturquoise !important;
+}
+.container .form-control {
+  border: 2px solid rgb(179, 31, 114) !important;
+}
+.container .form-text {
+  font-style: italic !important;
+}
+.container .form-check-label {
+  font-style: italic !important;
 }/*# sourceMappingURL=style.css.map */
