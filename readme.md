@@ -1,2 +1,2 @@
-#Formularz do egzaminu na podstawie bibioteki BOOTSTRAP
+#Formularz do egzaminu na podstawie biblioteki BOOTSTRAP
 
